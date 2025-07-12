@@ -1,0 +1,11 @@
+# Exclude specific files
+Exercise02/app-plan.md
+
+# Common patterns (optional additions)
+.DS_Store
+*.log
+node_modules/
+.env
+.env.local
+*.tmp
+*.temp 
